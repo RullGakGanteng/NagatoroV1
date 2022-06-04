@@ -8,13 +8,11 @@ let numberowner = global.numberowner
 let anu = `Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├ Dana : ${dana}
-├ Pulsa : ${pulsa}
-├ Gopay : ${gopay}
+├ Indosat: 6285859047172
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
-Arigatou!
+Arigatou! 😸
 
 Contact person Owner:
 wa.me/${numberowner} (Owner)
