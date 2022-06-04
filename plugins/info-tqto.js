@@ -6,8 +6,8 @@
 
 let handler = async (m, { conn }) => {
 bear = "Source Code"
-let esce = 'BIG THANKS TO\n\nNurutomo\nhttps://github.com/Nurutomo\nElyas\nhttps://github.com/Paquito1923\nHyzer Official\nhttps://github.com/Hyzerr'
-conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
+let esce = 'BIG THANKS TO\n\nOrtu\nMy Friend\nUser Bot'
+conn.sendButtonImg(m.chat, fla + 'Thanks To', nagatorobot, wm2, 'Menu', '.menu', m) 
 }
 handler.help = ['tqto', 'team']
 handler.tags = ['info']
