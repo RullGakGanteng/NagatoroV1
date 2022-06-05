@@ -10,7 +10,7 @@ const ftroli = {
     status: 1,
     surface : 1,
     message: 'Get Bot', 
-    orderTitle: `Hyzer`,
+    orderTitle: `Rull`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
@@ -21,6 +21,6 @@ const ftroli = {
 
 handler.help = ['sewa', 'sewabot']
 handler.tags = ['info']
-handler.command = /^(sewa|sewabot)?$/i
+handler.command = /^(sewa|sewabot)$/i
 
 module.exports = handler
